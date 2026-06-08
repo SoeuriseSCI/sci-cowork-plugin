@@ -9,7 +9,7 @@
     {
       "name": "sci",
       "description": "Comptabilite automatisee pour SCI a l'IS. Generation liasse fiscale 2065/2033 via Teledec, consultation balance/grand-livre/journal, ingestion documents. Revue, pre-cloture et cloture interactives dans l'espace abonne FE.",
-      "version": "1.5.12",
+      "version": "1.5.13",
       "author": { "name": "SCI Soeurise" },
       "source": "./head-soeurise-plugin"
     }
